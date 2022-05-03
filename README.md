@@ -1,5 +1,5 @@
 # ECSE3038_Lab7
-# Lab 6
+# Lab 7
 
 ## Aim
 
