@@ -1,0 +1,17 @@
+*.json
+*.xml
+*.txt
+*.env
+*.vscode
+*.venv
+*.pytest_cache
+__pycache__
+*.png
+app.py
+No.*
+HTTP
+*.css
+*.js
+ECSE3038Lab1.py
+ECSE3038Lab2.py
+tut.py
